@@ -37,8 +37,9 @@ Teste técnico NTConsult.
 * Classe TesteNTConsult: possui 2 cenários de testes organizados de forma improvisada - não está no formato de trabalho com objetos.
 * Classe DSLNTC: tem o intuito de concentrar código repetido, criando um padrão de codificação, será chamada a partir da TesteDBserver.
 * Classe SimulaInvestimentoPage: tem o intuito de ser a classe de pageobjects, será chamada a partir da TesteDBserver.
-* Foram iniciadas, mas não finalizadas as classes:
-    * TestesUI: tinha o intuito de tratar a entrada de dados - datapool
-    * TestesRegras: tinha o intuito de centralizar os testes de aceitação
+* Foram iniciadas, mas não finalizadas as classes: 
+    - TestesUI: tinha o intuito de tratar a entrada de dados - datapool
+    - TestesRegras: tinha o intuito de centralizar os testes de aceitação
 
-**Qualquer dúvida, basta entrar em contato.
+
+Qualquer dúvida, basta entrar em contato.
