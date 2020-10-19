@@ -35,7 +35,7 @@ Teste técnico NTConsult.
 
 * Classe SuiteTestes: elenca as classes que são utilizadas na execução de testes.
 * Classe TesteNTConsult: possui 2 cenários de testes organizados de forma improvisada - não está no formato de trabalho com objetos.
-* Classe DSLNTC: tem o intuito de concentrar código repetido, criando um padrão de codificação, será chamada a partir da TesteDBserver.
+* Classe DSLNTC: tem o intuito de concentrar código repetido, criando um padrão de codificação, será chamada a partir da TesteNTConsult.
 * Classe SimulaInvestimentoPage: tem o intuito de ser a classe de pageobjects, será chamada a partir da TesteDBserver.
 * Foram iniciadas, mas não finalizadas as classes: 
     - TestesUI: tinha o intuito de tratar a entrada de dados - datapool
