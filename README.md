@@ -9,7 +9,7 @@ Teste técnico NTConsult.
 * Parametrizado no path das variáveis de ambiente.
 
 
-**Configurar o pom.xml do projeto com as dependecias - ver pom.xml na branch main:
+**Configurar o pom.xml do projeto com as dependecias - ver pom.xml na branch main desse projeto:
 
 * groupId: org.seleniumhq.selenium
 * artifactId: selenium-java
@@ -20,8 +20,8 @@ Teste técnico NTConsult.
 
 * Estar instalado.
 * Configurado nas variáveis de ambiente
-* Copiar a parametrização do pom.properties do respositório desse projeto
-* Copiar a parametrização do pom.xml do respositório desse projeto
+* Copiar a parametrização do pom.properties do respositório - branch main - desse projeto
+* Copiar a parametrização do pom.xml do respositório - branch main - desse projeto
 
 
 **Foi utilizado o editor Eclipse Oxigen - nele configurar:
