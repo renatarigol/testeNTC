@@ -40,6 +40,7 @@ Teste técnico NTConsult.
 * Foram iniciadas, mas não finalizadas as classes: 
     - TestesUI: tinha o intuito de tratar a entrada de dados - datapool
     - TestesRegras: tinha o intuito de centralizar os testes de aceitação
+    - Screenshot: tinha o intuito de gerar evidências ao final da execução de testes
 
 
 Qualquer dúvida, basta entrar em contato.
